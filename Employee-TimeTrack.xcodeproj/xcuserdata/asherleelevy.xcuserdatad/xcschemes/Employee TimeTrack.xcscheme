@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A9EE656D1C692C240005307A"
-               BuildableName = "Employee TimeTrack.app"
-               BlueprintName = "Employee TimeTrack"
-               ReferencedContainer = "container:Employee TimeTrack.xcodeproj">
+               BuildableName = "Employee-TimeTrack.app"
+               BlueprintName = "Employee-TimeTrack"
+               ReferencedContainer = "container:Employee-TimeTrack.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A9EE65841C692C250005307A"
-               BuildableName = "Employee TimeTrackTests.xctest"
-               BlueprintName = "Employee TimeTrackTests"
-               ReferencedContainer = "container:Employee TimeTrack.xcodeproj">
+               BuildableName = "Employee-TimeTrack.xctest"
+               BlueprintName = "Employee-TimeTrackTests"
+               ReferencedContainer = "container:Employee-TimeTrack.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A9EE658F1C692C250005307A"
-               BuildableName = "Employee TimeTrackUITests.xctest"
-               BlueprintName = "Employee TimeTrackUITests"
-               ReferencedContainer = "container:Employee TimeTrack.xcodeproj">
+               BuildableName = "Employee-TimeTrack.xctest"
+               BlueprintName = "Employee-TimeTrackUITests"
+               ReferencedContainer = "container:Employee-TimeTrack.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A9EE656D1C692C240005307A"
-            BuildableName = "Employee TimeTrack.app"
-            BlueprintName = "Employee TimeTrack"
-            ReferencedContainer = "container:Employee TimeTrack.xcodeproj">
+            BuildableName = "Employee-TimeTrack.app"
+            BlueprintName = "Employee-TimeTrack"
+            ReferencedContainer = "container:Employee-TimeTrack.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A9EE656D1C692C240005307A"
-            BuildableName = "Employee TimeTrack.app"
-            BlueprintName = "Employee TimeTrack"
-            ReferencedContainer = "container:Employee TimeTrack.xcodeproj">
+            BuildableName = "Employee-TimeTrack.app"
+            BlueprintName = "Employee-TimeTrack"
+            ReferencedContainer = "container:Employee-TimeTrack.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A9EE656D1C692C240005307A"
-            BuildableName = "Employee TimeTrack.app"
-            BlueprintName = "Employee TimeTrack"
-            ReferencedContainer = "container:Employee TimeTrack.xcodeproj">
+            BuildableName = "Employee-TimeTrack.app"
+            BlueprintName = "Employee-TimeTrack"
+            ReferencedContainer = "container:Employee-TimeTrack.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
